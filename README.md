@@ -43,7 +43,7 @@ Simplifies analysis of large Java heap dumps using regex + summarization logic. 
 ## 🌐 Connect with Me
 
 - **LinkedIn**: [Divya Teja Ganta](www.linkedin.com/in/divya-teja-ganta)
-- **GitHub**: (https://github.com/Divyatejaganta)
+- **GitHub**: [Divya Teja Ganta](https://github.com/Divyatejaganta)
 - **Blog (coming soon)**: Technical case studies & AI in telecom support
 
 ---
