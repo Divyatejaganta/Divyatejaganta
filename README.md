@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Divya Teja Ganta
 
-I'm a Senior Technical Consultant with over decade of experience in software development and telecom product support. I specialize in building AI-powered automation tools that significantly reduce manual effort in large-scale support operations.
+I'm a **Senior Technical Specialist** with over decade of experience in software development and telecom product support. I specialize in building AI-powered automation tools that significantly reduce manual effort in large-scale support operations.
 
 Currently focused on developing Retrieval-Augmented Generation (RAG) applications, predictive AI support assistants, and infrastructure optimization tools for telecom platforms like HPE TAS.
 
